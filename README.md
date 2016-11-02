@@ -1,4 +1,4 @@
 # mydocs
-List of my Private Docs
+List of Docs
 
 -- Akhil@21291
